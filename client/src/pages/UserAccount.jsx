@@ -168,7 +168,7 @@ const UserAccount = ({ api }) => {
 
         <div className='hero-box w-full rounded-xl p-4'>
           <div className="px-2 w-full flex justify-between items-center">
-            <h1 className="text-2xl font-semibold">Token Details</h1>
+            <h1 className="text-2xl font-semibold">Account Details</h1>
           </div>
 
           <div className='border-t-2 border-stone-400 w-full my-4' />

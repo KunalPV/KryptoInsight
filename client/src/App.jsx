@@ -8,6 +8,7 @@ import AdminDashboard from "./pages/AdminDashboard";
 import VerifyUser from "./pages/auth/VerifyUser";
 
 function App() {
+
   return (
     <div className="min-h-screen max-w-full overflow-y-auto">
         <Routes>
